@@ -28,4 +28,3 @@ Following images shows response you get from API:
 ![Response from eBay API](/img/Response_dict.PNG)
 
 It's in dictionary format. Check dictionary format and use you dictionary subsetting skills to get data in format you want. 
-
