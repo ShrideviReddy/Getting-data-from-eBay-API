@@ -9,7 +9,7 @@ To use eBay API, you need to register for eBay developer program. Click [here](h
 * User Token
 For finding API , you just need App ID. But for some other APIS you need all of them.
 ## Setting EbaySDK
-Install ebaysdk using pip.Then clone this (repo)[https://github.com/timotheus/ebaysdk-python.git].
+Install ebaysdk using pip.Then clone this [repo](https://github.com/timotheus/ebaysdk-python.git).
 ## After cloning:
 After cloning repo, it will be download as ebaysdk-python. In ebaysdk-python folder check for ebaysdk.
 This folder has code for different API. 
