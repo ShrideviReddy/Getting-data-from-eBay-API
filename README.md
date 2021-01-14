@@ -21,7 +21,9 @@ git clone https://github.com/timotheus/ebaysdk-python.git
 ## After cloning:
 After cloning repo, it will be download as ebaysdk-python. In ebaysdk-python folder check for ebaysdk.
 This folder has code for different API. Copy code and edit as per your requirement.
-I have edited finding file to get data and save it in CSV file. Response you get from API is as follows:
+I have edited finding file to get data and save it in CSV file. 
+
+Following images shows response you get from API:
 
 ![Response from eBay API](/img/Response_dict.PNG)
 
