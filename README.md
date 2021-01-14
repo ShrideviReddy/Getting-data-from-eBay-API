@@ -23,5 +23,6 @@ After cloning repo, it will be download as ebaysdk-python. In ebaysdk-python fol
 This folder has code for different API. Copy code and edit as per your requirement.
 I have edited finding file to get data and save it in CSV file. Response you get from API is as follows:
 ![Response from eBay API](/img/Response_dict.PNG)
+
 It's in dictionary format. Use you dictionary subsetting skills to get data in format you want. 
 
